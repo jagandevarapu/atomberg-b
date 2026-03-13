@@ -63,6 +63,7 @@ const updatemixer = asynchandler(async (req, res) => {
     "currentprice",
     "discount",
     "images",
+    
   ];
 
   // Filter the request body to include only allowed fields
